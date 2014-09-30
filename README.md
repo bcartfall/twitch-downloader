@@ -22,5 +22,8 @@ This project uses:
 - json.net
 - Icon from [IconFinder](https://www.iconfinder.com/icons/35218/arrow_down_download_icon#size=1)
 
+## Developer
+Developed by Bryan Wiebe &lt;[hutzmedia.com](http://hutzmedia.com/)&gt;.
+
 ## Disclaimer
 This project is in no way affiliated or in partnership with Twitch.tv.
