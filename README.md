@@ -2,7 +2,7 @@ Twitch Downloader
 ============
 Twitch download allows you to download Twitch VODs for future loading or viewing on an offline device.
 
-Enter in a VOD URL and the downloader will download the VOD video parts and concatinate the parts into a single video container file.
+Enter in a VOD URL and the downloader will download the VOD video parts and concatenate the parts into a single video container file.
 
 ## Supported Video Containers
 - MKV
