@@ -11,9 +11,12 @@ Enter in a VOD URL and the downloader will download the VOD video parts and conc
 ## Requirements
 - Microsoft .NET Framework 4.5 or higher (included with installer)
 
+## Downloads
+![Twitch Downloader - v0.9.0 - Windows Installer x86](https://github.com/bcartfall/twitch-downloader/raw/master/downloads/Twitch_Downloader-0.9.0-win-x86-setup.zip)
+
 ## Screenshots
-![Main Form](https://raw.githubusercontent.com/bcartfall/twitch-downloader/master/screenshots/screen1-mainform.png)
-![Settings](https://raw.githubusercontent.com/bcartfall/twitch-downloader/master/screenshots/screen2-settings.png)
+![Main Form](https://github.com/bcartfall/twitch-downloader/raw/master/screenshots/screen1-mainform.png)
+![Settings](https://github.com/bcartfall/twitch-downloader/raw/master/screenshots/screen2-settings.png)
 
 ## Licenses
 
